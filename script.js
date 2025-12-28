@@ -293,7 +293,7 @@ function showWelcomeMessage() {
         console.log('%c💼 Kevin Luna - Desarrollador Full Stack & Data Scientist', 'color: #2563eb; font-size: 20px; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);');
         console.log('%c🚀 Transformando ideas en soluciones digitales', 'color: #7c3aed; font-size: 16px; font-style: italic;');
         console.log('%c✨ ¡Gracias por visitar mi tarjeta de contacto!', 'color: #10b981; font-size: 14px;');
-        console.log('%c🔗 Conectemos: https://linkedin.com/in/kevinluna', 'color: #64748b; font-size: 12px;');
+        console.log('%c🔗 Conectemos: https://www.linkedin.com/in/kevin-luna-63bab512b/', 'color: #64748b; font-size: 12px;');
     }, 1000);
 }
 
